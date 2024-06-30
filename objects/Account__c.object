@@ -191,6 +191,11 @@
         <active>false</active>
         <label>RecordType2</label>
     </recordTypes>
+    <recordTypes>
+        <fullName>RecordType3</fullName>
+        <active>false</active>
+        <label>RecordType3</label>
+    </recordTypes>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
