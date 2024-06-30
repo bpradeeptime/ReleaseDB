@@ -126,4 +126,39 @@
         <members>publicclass15032016</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>Account__c.Credit_Card_Number__c</members>
+        <members>Account__c.name__c</members>
+        <members>orders__c.ADVANCE_AMOUNT__c</members>
+        <members>orders__c.AGENT_CODE__c</members>
+        <members>orders__c.AutorabitExtId__c</members>
+        <members>orders__c.CUST_CODE__c</members>
+        <members>orders__c.ORD_AMOUNT__c</members>
+        <members>orders__c.ORD_DATE__c</members>
+        <members>orders__c.ORD_NUM__c</members>
+        <members>test__c.missinglabel__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Account__c</members>
+        <members>orders__c</members>
+        <members>pradeep__c</members>
+        <members>t7_obj__c</members>
+        <members>test__c</members>
+        <members>testmy__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>orders__c.All</members>
+        <name>ListView</name>
+    </types>
+    <types>
+        <members>Account__c.RecordType1</members>
+        <members>Account__c.RecordType2</members>
+        <name>RecordType</name>
+    </types>
+    <types>
+        <members>Account__c.weblink</members>
+        <name>WebLink</name>
+    </types>
 </Package>
