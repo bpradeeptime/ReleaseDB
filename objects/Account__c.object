@@ -164,6 +164,16 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Credit_Card_Number1__c</fullName>
+        <externalId>false</externalId>
+        <label>Credit_Card_Number1</label>
+        <length>10</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>name__c</fullName>
         <description>added</description>
         <externalId>false</externalId>
