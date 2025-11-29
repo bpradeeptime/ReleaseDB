@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordAlertCategory xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Prepayment Penalty Indicator field must be set to &amp;apos;Code 1 - Yes&amp;apos; or &amp;apos;Code 2 - No&amp;apos;</description>
+    <masterLabel>Originations Validations - DF1071 Prepayment</masterLabel>
+    <severity>Error</severity>
+</RecordAlertCategory>

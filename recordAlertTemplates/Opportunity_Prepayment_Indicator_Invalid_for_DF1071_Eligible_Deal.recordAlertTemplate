@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordAlertTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Prepayment Penalty Indicator field must be set to &amp;apos;Code 1 - Yes&amp;apos; or &amp;apos;Code 2 - No&amp;apos;</description>
+    <masterLabel>Prepayment Penalty Indicator field must be set to Code 1 - Yes or Code 2 - No</masterLabel>
+    <subject>Opportunity DF1071 Validations</subject>
+</RecordAlertTemplate>
