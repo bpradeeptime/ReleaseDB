@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomPageWebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <availability>online</availability>
+    <displayType>link</displayType>
+    <linkType>javascript</linkType>
+    <masterLabel>WhiteList Ip</masterLabel>
+    <openType>onClickJavaScript</openType>
+    <protected>false</protected>
+    <url>var startingPoint = 0;
+
+var endpoint = 0;
+
+openPage();
+
+function openPage() {
+
+endpoint = startingPoint + 1;
+
+var win = window.open(&apos;https://srini-java-dev-ed.my.salesforce.com/05G/e?IpStartAddress=&apos; + startingPoint + &apos;.0.0.0&amp;amp;IpEndAddress=&apos; + endpoint + &apos;.255.255.255&amp;amp;isdtp=vw&apos;,600,600);
+
+win.onload = function() {
+
+win.document.getElementsByName(&apos;save&apos;)[0].click();
+
+win.onunload = function() {
+
+win.close();
+
+startingPoint = startingPoint + 2;
+
+if(startingPoint &amp;lt;= 255) {
+
+openPage();
+
+}
+
+}
+
+}
+
+}</url>
+</CustomPageWebLink>

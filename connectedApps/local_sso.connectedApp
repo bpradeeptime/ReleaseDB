@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>srinivas.s@autorabit.com</contactEmail>
+    <label>local_sso</label>
+    <samlConfig>
+        <acsUrl>https://arm-qan7.autorabit.com/saml/SSO</acsUrl>
+        <encryptionType>AES_128</encryptionType>
+        <entityUrl>https://arm-qan7.autorabit.com/saml/metadata</entityUrl>
+        <issuer>https://srini-java-dev-ed.my.salesforce.com</issuer>
+        <samlNameIdFormat>Unspecified</samlNameIdFormat>
+        <samlSigningAlgoType>SHA1</samlSigningAlgoType>
+        <samlSubjectType>Username</samlSubjectType>
+    </samlConfig>
+    <startUrl>https://arm-qan7.autorabit.com</startUrl>
+</ConnectedApp>

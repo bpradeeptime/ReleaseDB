@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>srinivas.s@autorabit.com</contactEmail>
+    <label>DX</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:8955/rabit/oauth/_callback
+https://ar-dev.autorabit.com/oauth/_callback
+https://arm-dev.autorabit.com/oauth/_callback
+https://armor-dev.autorabit.com/oauth/_callback
+https://armor-qa.autorabit.com/oauth/_callback
+http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>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</certificate>
+        <isAdminApproved>true</isAdminApproved>
+        <isClientCredentialEnabled>false</isClientCredentialEnabled>
+        <isCodeCredentialEnabled>false</isCodeCredentialEnabled>
+        <isCodeCredentialPostOnly>false</isCodeCredentialPostOnly>
+        <isConsumerSecretOptional>false</isConsumerSecretOptional>
+        <isIntrospectAllTokens>false</isIntrospectAllTokens>
+        <isNamedUserJwtEnabled>false</isNamedUserJwtEnabled>
+        <isPkceRequired>false</isPkceRequired>
+        <isRefreshTokenRotationEnabled>false</isRefreshTokenRotationEnabled>
+        <isSecretRequiredForRefreshToken>false</isSecretRequiredForRefreshToken>
+        <isSecretRequiredForTokenExchange>false</isSecretRequiredForTokenExchange>
+        <isTokenExchangeEnabled>false</isTokenExchangeEnabled>
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>Full</scopes>
+        <scopes>Chatter</scopes>
+        <scopes>CustomApplications</scopes>
+        <scopes>RefreshToken</scopes>
+        <scopes>OpenID</scopes>
+        <scopes>CustomPermissions</scopes>
+        <scopes>Wave</scopes>
+        <scopes>Eclair</scopes>
+    </oauthConfig>
+    <oauthPolicy>
+        <ipRelaxation>ENFORCE</ipRelaxation>
+        <isTokenExchangeFlowEnabled>false</isTokenExchangeFlowEnabled>
+        <refreshTokenPolicy>infinite</refreshTokenPolicy>
+    </oauthPolicy>
+    <profileName>System Administrator</profileName>
+</ConnectedApp>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>ACCObjt1</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>ACCObjt1s</value>
+    </caseValues>
+    <sharingReasons>
+        <label></label>
+        <name>Reason1</name>
+    </sharingReasons>
+    <sharingReasons>
+        <label></label>
+        <name>Reason2</name>
+    </sharingReasons>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>

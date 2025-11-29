@@ -1,0 +1,107 @@
+{
+  "appPageId" : "e33c3ff7-1ec1-47c0-9ea1-66f9f55325bd",
+  "componentName" : "siteforce:sldsTwoCol84Layout",
+  "dataProviders" : [ ],
+  "id" : "d41781b6-f202-48f3-a229-8b98b298bb46",
+  "label" : "Home",
+  "regions" : [ {
+    "components" : [ {
+      "componentAttributes" : {
+        "richTextValue" : "<img class='sfdcCbImage' src='/sfsites/c/img/community/cpt/cpt-home-banner.png'             style='width:100%;'/>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "da45e428-358c-4a13-b3e5-250d616a3f25",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "tileMenuEditor" : ""
+      },
+      "componentName" : "forceCommunity:tileMenu",
+      "id" : "ee9395ca-806a-4fcf-9f97-2da2abdeb8e5",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "53e7ad39-691d-437e-8f67-3681870fcfef",
+    "regionName" : "header",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "enableInlineEdit" : true,
+        "filterName" : "MyOpenCases",
+        "layout" : "STANDARD",
+        "pageSize" : 5,
+        "scope" : "Case",
+        "showActionBar" : true,
+        "showDisplay" : "showall",
+        "showSearchBar" : true
+      },
+      "componentName" : "forceCommunity:objectHome",
+      "id" : "65854f81-3c40-4862-8982-59bf1350ebd7",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "6eebee85-f50b-40fe-b5fc-9786670c50aa",
+    "regionName" : "content",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "deleteButtonText" : "Delete",
+        "pageSize" : 10,
+        "resumeButtonAlign" : "right",
+        "resumeButtonLabel" : "Resume",
+        "showDeleteButton" : false,
+        "showNumberInTitle" : true,
+        "showOwnerName" : false,
+        "showPauseReason" : true,
+        "showPauseStep" : true,
+        "showPauseTime" : true,
+        "title" : "Paused Flows"
+      },
+      "componentName" : "forceCommunity:pausedInterviewCard",
+      "id" : "0895f73a-be4e-4c0a-98e9-2619f285d4ae",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    }, {
+      "componentAttributes" : {
+        "richTextValue" : "<p><b style=\"font-size: 16px;\">Quick Links</b></p><p><br></p><p><a href=\"http://www.salesforce.com/\" target=\"_blank\">Link 1</a></p><p><br></p><p><a href=\"http://www.salesforce.com/\" target=\"_blank\">Link 2</a></p><p>Link5</p><p>Link6</p><p><a href=\"http://www.salesforce.com/\" target=\"_blank\">Link 3</a></p><p><br></p><p><a href=\"http://www.salesforce.com/\" target=\"_blank\">Link 4</a></p><p>&nbsp;</p>"
+      },
+      "componentName" : "forceCommunity:richTextInline",
+      "id" : "2ee9fdaf-8e67-4b5b-a832-13180d6b7beb",
+      "renderPriority" : "NEUTRAL",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "9b882a33-8431-4c9e-a1f7-32985c9f355a",
+    "regionName" : "sidebar",
+    "type" : "region"
+  }, {
+    "id" : "258d192c-2c40-4ac2-b068-0b0508f17679",
+    "regionName" : "footer",
+    "type" : "region"
+  }, {
+    "components" : [ {
+      "componentAttributes" : {
+        "customHeadTags" : "",
+        "description" : "",
+        "title" : "Home"
+      },
+      "componentName" : "forceCommunity:seoAssistant",
+      "id" : "10cc0cec-3175-43b8-9047-9cf91c3d4f67",
+      "renditionMap" : { },
+      "type" : "component"
+    } ],
+    "id" : "db68cb8f-1544-40a0-9798-17e014b914b9",
+    "regionName" : "sfdcHiddenRegion",
+    "type" : "region"
+  } ],
+  "themeLayoutType" : "Inner",
+  "type" : "view",
+  "viewType" : "home"
+}
