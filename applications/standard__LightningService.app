@@ -14,22 +14,13 @@
     <tabs>standard-Account</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
-    <tabs>standard-Feed</tabs>
-    <tabs>standard-WaveHomeLightning</tabs>
+    <tabs>standard-home</tabs>
     <tabs>standard-Incident</tabs>
     <tabs>standard-Problem</tabs>
     <tabs>standard-ChangeRequest</tabs>
-    <tabs>Knowledge__kav</tabs>
-    <tabs>UserStory__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningService_UtilityBar</utilityBar>
     <workspaceConfig>
-        <mappings>
-            <tab>Knowledge__kav</tab>
-        </mappings>
-        <mappings>
-            <tab>UserStory__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>
@@ -46,16 +37,13 @@
             <tab>standard-Dashboard</tab>
         </mappings>
         <mappings>
-            <tab>standard-Feed</tab>
-        </mappings>
-        <mappings>
             <tab>standard-Incident</tab>
         </mappings>
         <mappings>
             <tab>standard-Problem</tab>
         </mappings>
         <mappings>
-            <tab>standard-WaveHomeLightning</tab>
+            <tab>standard-home</tab>
         </mappings>
         <mappings>
             <tab>standard-report</tab>

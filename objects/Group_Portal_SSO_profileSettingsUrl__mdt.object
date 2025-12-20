@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>testingProfile__c</fullName>
+        <description>testingProfile issue</description>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>testingProfile</label>
+        <length>12</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <label>Group_Portal_SSO.profileSettingsUrl</label>
+    <pluralLabel>Group_Portal_SSO.profileSettingsUrl</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>

@@ -19,7 +19,7 @@
     <enableAzureDLGen2OutputConnector>false</enableAzureDLGen2OutputConnector>
     <enableCreateLegacyDataflows>true</enableCreateLegacyDataflows>
     <enableCrtSetupLightningUiPref>true</enableCrtSetupLightningUiPref>
-    <enableDashboardComponentSnapshot>true</enableDashboardComponentSnapshot>
+    <enableDashboardComponentSnapshot>false</enableDashboardComponentSnapshot>
     <enableDashboardFlexiTable>true</enableDashboardFlexiTable>
     <enableDashboardSubOrgEmailPref>false</enableDashboardSubOrgEmailPref>
     <enableDataCloudReportingPref>true</enableDataCloudReportingPref>
@@ -28,7 +28,7 @@
     <enableFloatingReportHeaders>true</enableFloatingReportHeaders>
     <enableIncludeDisclaimerMessage>false</enableIncludeDisclaimerMessage>
     <enableInsights>true</enableInsights>
-    <enableLightningReportBuilder>true</enableLightningReportBuilder>
+    <enableLightningReportBuilder>false</enableLightningReportBuilder>
     <enableLotusNotesImages>false</enableLotusNotesImages>
     <enableMassEnableReportBuilder>true</enableMassEnableReportBuilder>
     <enableNewChartsEngine>true</enableNewChartsEngine>
@@ -40,7 +40,7 @@
     <enableOrgHasWatchlistEnabled>true</enableOrgHasWatchlistEnabled>
     <enableQueryLiveConnectors>true</enableQueryLiveConnectors>
     <enableRemoveFooterForRepDisplay>false</enableRemoveFooterForRepDisplay>
-    <enableRemoveFooterFromRepExp>true</enableRemoveFooterFromRepExp>
+    <enableRemoveFooterFromRepExp>false</enableRemoveFooterFromRepExp>
     <enableReportCdnPref>true</enableReportCdnPref>
     <enableReportHideXlsExportPref>false</enableReportHideXlsExportPref>
     <enableReportInlineEditPref>true</enableReportInlineEditPref>
@@ -59,13 +59,14 @@
     <enableTableauHyperOutputConnector>false</enableTableauHyperOutputConnector>
     <enableUseOldChartsLookAndFeel>false</enableUseOldChartsLookAndFeel>
     <enableWaveAssetsNewDateVersion>false</enableWaveAssetsNewDateVersion>
-    <enableWaveIndexMVDim>false</enableWaveIndexMVDim>
+    <enableWaveIndexMVDim>true</enableWaveIndexMVDim>
     <enableWaveIndexMVDimV2>false</enableWaveIndexMVDimV2>
     <enableWaveRecordNavigation>false</enableWaveRecordNavigation>
     <enableWaveReplication>false</enableWaveReplication>
     <enableWaveSharingInheritance>false</enableWaveSharingInheritance>
     <enableWaveSqlCFIndexing>false</enableWaveSqlCFIndexing>
-    <enableWaveTrendedDatasetCleanup>true</enableWaveTrendedDatasetCleanup>
+    <enableWaveTrendedDatasetCleanup>false</enableWaveTrendedDatasetCleanup>
+    <enableWriteToDataCloud>false</enableWriteToDataCloud>
     <isDiscoveryOptimizationEnabled>false</isDiscoveryOptimizationEnabled>
     <isHighVolumePushbackEnabled>false</isHighVolumePushbackEnabled>
     <maxHoursAppInProgress>48</maxHoursAppInProgress>

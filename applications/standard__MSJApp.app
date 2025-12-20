@@ -10,12 +10,8 @@
     <tabs>standard-JourneyHome</tabs>
     <tabs>standard-SalesforceJourney</tabs>
     <tabs>standard-JourneyMap</tabs>
-    <tabs>UserStory__c</tabs>
     <uiType>Lightning</uiType>
     <workspaceConfig>
-        <mappings>
-            <tab>UserStory__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-JourneyHome</tab>
         </mappings>

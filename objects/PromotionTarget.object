@@ -142,10 +142,6 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>CurrencyIsoCode</fullName>
-        <trackHistory>false</trackHistory>
-    </fields>
-    <fields>
         <fullName>IsMinItemCountRequired</fullName>
         <trackHistory>false</trackHistory>
     </fields>

@@ -9,6 +9,5 @@
     <navType>Standard</navType>
     <tabs>standard-home</tabs>
     <tabs>standard-DataMgmtPolicy</tabs>
-    <tabs>UserStory__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

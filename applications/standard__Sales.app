@@ -5,44 +5,19 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <isNavTabPersistenceDisabled>false</isNavTabPersistenceDisabled>
     <isOmniPinnedViewEnabled>false</isOmniPinnedViewEnabled>
-    <tabs>standard-Contact</tabs>
-    <tabs>standard-Account</tabs>
+    <tabs>standard-Chatter</tabs>
+    <tabs>standard-Campaign</tabs>
     <tabs>standard-Lead</tabs>
+    <tabs>standard-Account</tabs>
+    <tabs>standard-Contact</tabs>
     <tabs>standard-Opportunity</tabs>
+    <tabs>standard-Forecasting3</tabs>
+    <tabs>standard-Contract</tabs>
+    <tabs>standard-Order</tabs>
+    <tabs>standard-Invoice</tabs>
+    <tabs>standard-Case</tabs>
+    <tabs>standard-Solution</tabs>
+    <tabs>standard-Product2</tabs>
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
-    <tabs>standard-Chatter</tabs>
-    <tabs>standard-File</tabs>
-    <tabs>standard-Product2</tabs>
-    <tabs>standard-Forecasting3</tabs>
-    <tabs>standard-Quote</tabs>
-    <tabs>Explosive_Precursor_File__c</tabs>
-    <tabs>parent1__c</tabs>
-    <tabs>parent2__c</tabs>
-    <tabs>parent3__c</tabs>
-    <tabs>parent4__c</tabs>
-    <tabs>child1__c</tabs>
-    <tabs>child2__c</tabs>
-    <tabs>child3__c</tabs>
-    <tabs>child4__c</tabs>
-    <tabs>child5__c</tabs>
-    <tabs>parent5__c</tabs>
-    <tabs>parent6__c</tabs>
-    <tabs>junctionObj__c</tabs>
-    <tabs>vaultp1__c</tabs>
-    <tabs>vaultc1__c</tabs>
-    <tabs>vaultc2__c</tabs>
-    <tabs>vaultc3__c</tabs>
-    <tabs>ExternalObject__x</tabs>
-    <tabs>Notification__c</tabs>
-    <tabs>User_Notification__c</tabs>
-    <tabs>CustomObejct1__c</tabs>
-    <tabs>CustomObject2__c</tabs>
-    <tabs>CustomObject3__c</tabs>
-    <tabs>CustObj__c</tabs>
-    <tabs>CustObj2__c</tabs>
-    <tabs>CustObj3__c</tabs>
-    <tabs>testorg__c</tabs>
-    <tabs>dlConfig__c</tabs>
-    <tabs>UserStory__c</tabs>
 </CustomApplication>

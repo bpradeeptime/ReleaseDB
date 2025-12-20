@@ -1,97 +1,80 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
     <labels>
-        <fullName>AC2</fullName>
+        <fullName>CL1</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>AC211201</shortDescription>
-        <value>97</value>
+        <shortDescription>CL1</shortDescription>
+        <value>2</value>
     </labels>
     <labels>
-        <fullName>ACCL1</fullName>
+        <fullName>CL10</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>ACCL1</shortDescription>
-        <value>12</value>
+        <shortDescription>CL10</shortDescription>
+        <value>2</value>
     </labels>
     <labels>
-        <fullName>ACCL3</fullName>
+        <fullName>CL11</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>ACCL3</shortDescription>
-        <value>1234</value>
+        <shortDescription>CL11</shortDescription>
+        <value>3</value>
     </labels>
     <labels>
-        <fullName>ACCt3</fullName>
+        <fullName>CL12</fullName>
         <language>en_US</language>
         <protected>true</protected>
-        <shortDescription>ACCt3</shortDescription>
-        <value>3k</value>
-    </labels>
-    <labels>
-        <fullName>ACL101</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>ACL1023</shortDescription>
-        <value>1111</value>
-    </labels>
-    <labels>
-        <fullName>AccNewLabel1</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>AccNewLabel1</shortDescription>
-        <value>Test1</value>
-    </labels>
-    <labels>
-        <fullName>Acclabel45</fullName>
-        <language>en_US</language>
-        <protected>true</protected>
-        <shortDescription>Acclabel45</shortDescription>
+        <shortDescription>CL12</shortDescription>
         <value>1</value>
     </labels>
     <labels>
-        <fullName>CustomLabelsTest</fullName>
+        <fullName>CL2</fullName>
         <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>CustomLabelsTest</shortDescription>
-        <value>Test</value>
+        <protected>true</protected>
+        <shortDescription>CL2</shortDescription>
+        <value>3</value>
     </labels>
     <labels>
-        <fullName>Customlabelwithtransalation</fullName>
+        <fullName>CL3</fullName>
         <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>Customlabelwithtransalation</shortDescription>
-        <value>Eng
-French
-Sapnish</value>
+        <protected>true</protected>
+        <shortDescription>CL3</shortDescription>
+        <value>4</value>
     </labels>
     <labels>
-        <fullName>FS_Container_AuthenticationFailure_Title_04IPl000000E9eX_5969236</fullName>
-        <categories>Snap-ins</categories>
+        <fullName>CL4</fullName>
         <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>FS_Container_AuthenticationFailure_Title_04IPl000000E9eX_5969236</shortDescription>
-        <value>log</value>
+        <protected>true</protected>
+        <shortDescription>CL4</shortDescription>
+        <value>5</value>
     </labels>
     <labels>
-        <fullName>Giri</fullName>
+        <fullName>CL5</fullName>
         <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>Giri</shortDescription>
-        <value>&lt;!-- value --&gt;</value>
+        <protected>true</protected>
+        <shortDescription>CL5</shortDescription>
+        <value>6</value>
     </labels>
     <labels>
-        <fullName>Giri_30Apr</fullName>
+        <fullName>CL6</fullName>
         <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>Giri-30Apr</shortDescription>
-        <value>it is a test label</value>
+        <protected>true</protected>
+        <shortDescription>CL6</shortDescription>
+        <value>7</value>
     </labels>
     <labels>
-        <fullName>Giri_french</fullName>
+        <fullName>CL8</fullName>
         <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>Giri-french</shortDescription>
-        <value>temp</value>
+        <protected>true</protected>
+        <shortDescription>CL8</shortDescription>
+        <value>8</value>
+    </labels>
+    <labels>
+        <fullName>CL9</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>CL9</shortDescription>
+        <value>1</value>
     </labels>
 </CustomLabels>

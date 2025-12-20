@@ -37,13 +37,8 @@
         <label>Messaging</label>
     </standardValue>
     <standardValue>
-        <fullName>Social</fullName>
+        <fullName>Live Agent</fullName>
         <default>false</default>
-        <label>Social</label>
-    </standardValue>
-    <standardValue>
-        <fullName>Knowledge</fullName>
-        <default>false</default>
-        <label>Knowledge</label>
+        <label>Live Agent</label>
     </standardValue>
 </StandardValueSet>

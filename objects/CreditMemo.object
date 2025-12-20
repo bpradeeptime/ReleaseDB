@@ -132,10 +132,6 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>CorporateCurrencyIsoCode</fullName>
-        <trackHistory>false</trackHistory>
-    </fields>
-    <fields>
         <fullName>CreationMode</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -145,10 +141,6 @@
     </fields>
     <fields>
         <fullName>CreditMemoNumber</fullName>
-        <trackHistory>false</trackHistory>
-    </fields>
-    <fields>
-        <fullName>CurrencyIsoCode</fullName>
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
@@ -229,6 +221,7 @@
     <listViews>
         <fullName>mine</fullName>
         <columns>Name</columns>
+        <columns>CreditMemoNumber</columns>
         <columns>BillingAccount</columns>
         <columns>Status</columns>
         <columns>TotalAmount</columns>

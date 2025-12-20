@@ -83,10 +83,6 @@
         <trackHistory>false</trackHistory>
     </fields>
     <fields>
-        <fullName>CurrencyIsoCode</fullName>
-        <trackHistory>false</trackHistory>
-    </fields>
-    <fields>
         <fullName>FirstPymtGrandTotalAmount</fullName>
         <trackHistory>false</trackHistory>
     </fields>

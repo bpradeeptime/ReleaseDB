@@ -149,16 +149,6 @@
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <field>MiddleName</field>
-            <table>Network.NetworkMembers</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
-            <field>Suffix</field>
-            <table>Network.NetworkMembers</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
             <field>CompanyName</field>
             <table>Network.NetworkMembers</table>
         </columns>
@@ -319,16 +309,6 @@
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <field>DefaultCurrencyIsoCode</field>
-            <table>Network.NetworkMembers</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
-            <field>CurrencyIsoCode</field>
-            <table>Network.NetworkMembers</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
             <field>UserType</field>
             <table>Network.NetworkMembers</table>
         </columns>
@@ -400,6 +380,11 @@
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>DefaultGroupNotificationFrequency</field>
+            <table>Network.NetworkMembers</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>JigsawImportLimitOverride</field>
             <table>Network.NetworkMembers</table>
         </columns>
         <columns>

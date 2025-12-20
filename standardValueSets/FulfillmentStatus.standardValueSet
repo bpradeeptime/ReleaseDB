@@ -33,9 +33,9 @@
         <groupingString>CLOSED</groupingString>
     </standardValue>
     <standardValue>
-        <fullName>Canceled</fullName>
+        <fullName>Cancelled</fullName>
         <default>false</default>
-        <label>Canceled</label>
+        <label>Cancelled</label>
         <groupingString>CANCELLED</groupingString>
     </standardValue>
     <standardValue>

@@ -33,16 +33,6 @@
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <field>MiddleName</field>
-            <table>User</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
-            <field>Suffix</field>
-            <table>User</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
             <field>CompanyName</field>
             <table>User</table>
         </columns>
@@ -208,16 +198,6 @@
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
-            <field>DefaultCurrencyIsoCode</field>
-            <table>User</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
-            <field>CurrencyIsoCode</field>
-            <table>User</table>
-        </columns>
-        <columns>
-            <checkedByDefault>false</checkedByDefault>
             <field>Profile</field>
             <table>User</table>
         </columns>
@@ -368,6 +348,11 @@
         </columns>
         <columns>
             <checkedByDefault>false</checkedByDefault>
+            <field>JigsawImportLimitOverride</field>
+            <table>User</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
             <field>ChatterAdoptionStage</field>
             <table>User</table>
         </columns>
@@ -379,6 +364,11 @@
         <columns>
             <checkedByDefault>false</checkedByDefault>
             <field>IsProfilePhotoActive</field>
+            <table>User</table>
+        </columns>
+        <columns>
+            <checkedByDefault>false</checkedByDefault>
+            <field>Individual</field>
             <table>User</table>
         </columns>
         <columns>

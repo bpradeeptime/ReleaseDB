@@ -130,18 +130,6 @@
     <enableFeeds>false</enableFeeds>
     <externalSharingModel>ReadSelect</externalSharingModel>
     <fields>
-        <fullName>AutorabitExtId__c</fullName>
-        <caseSensitive>false</caseSensitive>
-        <description>External Id created by AutoRABIT</description>
-        <externalId>true</externalId>
-        <label>AutorabitExtId__c</label>
-        <length>18</length>
-        <required>false</required>
-        <trackHistory>false</trackHistory>
-        <type>Text</type>
-        <unique>true</unique>
-    </fields>
-    <fields>
         <fullName>Description</fullName>
         <trackHistory>false</trackHistory>
     </fields>
@@ -158,11 +146,7 @@
         <trackHistory>false</trackHistory>
     </fields>
     <listViews>
-        <fullName>All_Price_Books</fullName>
-        <columns>PRICEBOOK2.NAME</columns>
-        <columns>PRICEBOOK2.DESCRIPTION</columns>
-        <columns>PRICEBOOK2.LAST_UPDATE</columns>
-        <columns>PRICEBOOK2.IS_ACTIVE</columns>
+        <fullName>All_Pricebooks</fullName>
         <filterScope>Everything</filterScope>
         <label>All Price Books</label>
     </listViews>

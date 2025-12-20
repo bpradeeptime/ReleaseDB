@@ -6,7 +6,7 @@
     <doesApiLoginRequireOrgDomain>false</doesApiLoginRequireOrgDomain>
     <doesWarnOnForceComRedirect>false</doesWarnOnForceComRedirect>
     <doesWarnOnRedirect>false</doesWarnOnRedirect>
-    <domainPartition>sandbox</domainPartition>
+    <domainPartition>develop</domainPartition>
     <enableCrossDomainPreviewCookies>true</enableCrossDomainPreviewCookies>
     <enableEdgeDuringRollout>true</enableEdgeDuringRollout>
     <enableExtendedRedirections>false</enableExtendedRedirections>
@@ -19,13 +19,13 @@
     <isFirstPartyCookieUseRequired>false</isFirstPartyCookieUseRequired>
     <isInstancedApiTrafficBlocked>false</isInstancedApiTrafficBlocked>
     <logRedirections>false</logRedirections>
-    <myDomainName>connect-page-1570</myDomainName>
+    <myDomainName>autorabit-10c-dev-ed</myDomainName>
     <myDomainSuffix>MySalesforce</myDomainSuffix>
     <onboardCustomerSpecificSuffix>false</onboardCustomerSpecificSuffix>
     <redirectForceComSiteUrls>true</redirectForceComSiteUrls>
     <redirectPriorMyDomain>true</redirectPriorMyDomain>
     <use3rdPartyCookieBlockingCompatibleHostnames>true</use3rdPartyCookieBlockingCompatibleHostnames>
-    <useEdge>true</useEdge>
+    <useEdge>false</useEdge>
     <useEnhancedDomainsInSandbox>true</useEnhancedDomainsInSandbox>
     <useStabilizedMyDomainHostnames>true</useStabilizedMyDomainHostnames>
     <useStabilizedSandboxMyDomainHostnames>true</useStabilizedSandboxMyDomainHostnames>

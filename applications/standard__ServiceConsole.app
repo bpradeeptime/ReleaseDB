@@ -181,109 +181,7 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
-    <tabs>standard-Knowledge</tabs>
-    <tabs>Explosive_Precursor_File__c</tabs>
-    <tabs>parent1__c</tabs>
-    <tabs>parent2__c</tabs>
-    <tabs>parent3__c</tabs>
-    <tabs>parent4__c</tabs>
-    <tabs>child1__c</tabs>
-    <tabs>child2__c</tabs>
-    <tabs>child3__c</tabs>
-    <tabs>child4__c</tabs>
-    <tabs>child5__c</tabs>
-    <tabs>parent5__c</tabs>
-    <tabs>parent6__c</tabs>
-    <tabs>junctionObj__c</tabs>
-    <tabs>vaultp1__c</tabs>
-    <tabs>vaultc1__c</tabs>
-    <tabs>vaultc2__c</tabs>
-    <tabs>vaultc3__c</tabs>
-    <tabs>ExternalObject__x</tabs>
-    <tabs>Notification__c</tabs>
-    <tabs>User_Notification__c</tabs>
-    <tabs>CustomObejct1__c</tabs>
-    <tabs>CustomObject2__c</tabs>
-    <tabs>CustomObject3__c</tabs>
-    <tabs>CustObj__c</tabs>
-    <tabs>CustObj2__c</tabs>
-    <tabs>CustObj3__c</tabs>
-    <tabs>testorg__c</tabs>
-    <tabs>dlConfig__c</tabs>
-    <tabs>UserStory__c</tabs>
     <workspaceConfig>
-        <mappings>
-            <tab>CustObj2__c</tab>
-        </mappings>
-        <mappings>
-            <tab>CustObj3__c</tab>
-        </mappings>
-        <mappings>
-            <tab>CustObj__c</tab>
-        </mappings>
-        <mappings>
-            <tab>CustomObejct1__c</tab>
-        </mappings>
-        <mappings>
-            <tab>CustomObject2__c</tab>
-        </mappings>
-        <mappings>
-            <tab>CustomObject3__c</tab>
-        </mappings>
-        <mappings>
-            <tab>Explosive_Precursor_File__c</tab>
-        </mappings>
-        <mappings>
-            <tab>ExternalObject__x</tab>
-        </mappings>
-        <mappings>
-            <tab>Notification__c</tab>
-        </mappings>
-        <mappings>
-            <tab>UserStory__c</tab>
-        </mappings>
-        <mappings>
-            <tab>User_Notification__c</tab>
-        </mappings>
-        <mappings>
-            <tab>child1__c</tab>
-        </mappings>
-        <mappings>
-            <tab>child2__c</tab>
-        </mappings>
-        <mappings>
-            <tab>child3__c</tab>
-        </mappings>
-        <mappings>
-            <tab>child4__c</tab>
-        </mappings>
-        <mappings>
-            <tab>child5__c</tab>
-        </mappings>
-        <mappings>
-            <tab>dlConfig__c</tab>
-        </mappings>
-        <mappings>
-            <tab>junctionObj__c</tab>
-        </mappings>
-        <mappings>
-            <tab>parent1__c</tab>
-        </mappings>
-        <mappings>
-            <tab>parent2__c</tab>
-        </mappings>
-        <mappings>
-            <tab>parent3__c</tab>
-        </mappings>
-        <mappings>
-            <tab>parent4__c</tab>
-        </mappings>
-        <mappings>
-            <tab>parent5__c</tab>
-        </mappings>
-        <mappings>
-            <tab>parent6__c</tab>
-        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>
@@ -296,29 +194,11 @@
             <tab>standard-Contact</tab>
         </mappings>
         <mappings>
-            <tab>standard-Knowledge</tab>
-        </mappings>
-        <mappings>
             <tab>standard-Lead</tab>
         </mappings>
         <mappings>
             <fieldName>AccountId</fieldName>
             <tab>standard-Opportunity</tab>
-        </mappings>
-        <mappings>
-            <tab>testorg__c</tab>
-        </mappings>
-        <mappings>
-            <tab>vaultc1__c</tab>
-        </mappings>
-        <mappings>
-            <tab>vaultc2__c</tab>
-        </mappings>
-        <mappings>
-            <tab>vaultc3__c</tab>
-        </mappings>
-        <mappings>
-            <tab>vaultp1__c</tab>
         </mappings>
     </workspaceConfig>
 </CustomApplication>

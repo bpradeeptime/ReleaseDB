@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customSettingsType>Hierarchy</customSettingsType>
+    <enableFeeds>false</enableFeeds>
+    <fields>
+        <fullName>Custom_Value_new__c</fullName>
+        <defaultValue>10</defaultValue>
+        <externalId>false</externalId>
+        <label>Custom Value_new</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackTrending>false</trackTrending>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Custom_Value_newtext__c</fullName>
+        <defaultValue>"text"</defaultValue>
+        <externalId>false</externalId>
+        <label>Custom Value_newtext</label>
+        <length>100</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <label>My Custom Setting 2</label>
+    <visibility>Public</visibility>
+</CustomObject>
