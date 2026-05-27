@@ -464,6 +464,14 @@
         <isOutput>false</isOutput>
     </variables>
     <variables>
+        <description>Required for a Managed Content Authoring Workflow (Beta) orchestration. Is passed into the orchestration.</description>
+        <name>MContentSpaceId</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+    <variables>
         <description>Required for CMS Orchestration. Stores the ID of the managed content variant for the review request and is passed into the orchestration.</description>
         <name>MContentVariantId</name>
         <dataType>String</dataType>
