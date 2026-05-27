@@ -48,6 +48,11 @@
         <expression>IF(NOT(ISNULL({!ApproveOrRequestRevision.Outputs.Feedback})) &amp;&amp; NOT(ISBLANK({!ApproveOrRequestRevision.Outputs.Feedback})), {!ApproveOrRequestRevision.Outputs.Feedback}, &apos; &apos;)</expression>
     </formulas>
     <formulas>
+        <name>GetPresentFeedback</name>
+        <dataType>String</dataType>
+        <expression>IF(NOT(NULL({!ApproveOrRequestRevision.Outputs.Feedback})) &amp;&amp; NOT(ISBLANK({!ApproveOrRequestRevision.Outputs.Feedback})), {!ApproveOrRequestRevision.Outputs.Feedback}, &apos; &apos;)</expression>
+    </formulas>
+    <formulas>
         <name>GetPresentReviewer</name>
         <dataType>String</dataType>
         <expression>IF(NOT(ISNULL({!ApproveOrRequestRevision.Outputs.Reviewer})) &amp;&amp; NOT(ISBLANK({!ApproveOrRequestRevision.Outputs.Reviewer})), {!ApproveOrRequestRevision.Outputs.Reviewer}, &apos; &apos;)</expression>
